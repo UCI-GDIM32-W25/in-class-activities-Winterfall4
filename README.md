@@ -19,25 +19,4 @@
 - Q8: Transform.Translate should be replaced with _playerTransform.Translate.
 
 ### Activity 3
-- Bunny:
-    - Attributes:
-        - speed
-        - num of seeds
-        - sprite
-	- Actions:
-        - movement (wasd)
-        - movement/translate
-
-
-- Plant:
-    - Attributes:
-        - location: current cat location
-    - Actions:
-        - hit space button → plant appears
-        - counter: seeds remaining and seeds planted
-
-
-- UI: 
-    - displays the amount of seed plants
-    - display the amount of planted seeds
-    - Use “Debug.Log” to show text.
+https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?usp=sharing 

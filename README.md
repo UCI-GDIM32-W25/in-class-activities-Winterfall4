@@ -1,14 +1,13 @@
 # GDIM32 In Class Activities
-## Instructions
-### W1
-#### Activity 1
+## W1
+### Activity 1
 - Don't procrastinate
 - Pay attention to pre-learning slides
 - Take notes
 - Follow along
 - Ask questions
 
-#### Activity 2
+### Activity 2
 - Q1: 10
 - Q2: 2
 - Q3: Print “hello world” in the console every frame
@@ -19,7 +18,7 @@
 - Q8: “Transform” is without capital “T”. Correct code =  “transform.translate”
 - Q8: Transform.Translate should be replaced with _playerTransform.Translate.
 
-#### Activity 3
+### Activity 3
 - Bunny:
     - Attributes:
         - speed

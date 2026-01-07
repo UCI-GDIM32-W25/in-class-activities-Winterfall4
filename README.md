@@ -1,6 +1,12 @@
 # GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+### W1
+- Don't procrastinate
+- Pay attention to pre-learning slides
+- Take notes
+- Follow along
+- Ask questions
 
 
 Hit enter TWICE to create a new line.

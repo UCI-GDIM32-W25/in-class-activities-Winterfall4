@@ -23,3 +23,4 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 
 ## W2
 ### Activity 1
+![MG2 Diagram](https://github.com/user-attachments/assets/c9b9cc8c-ae2e-47f4-9c83-15b8ce428e93)

@@ -27,3 +27,7 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 
 ### Activity 2
 [Link to MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-Winterfall4/commit/2c402dbd3775efb6b6da81f01de40ce943430630)
+
+## W3
+### Activity 1
+Partner Name: Kai Castilliano

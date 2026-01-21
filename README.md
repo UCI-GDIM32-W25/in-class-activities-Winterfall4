@@ -31,3 +31,6 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 ## W3
 ### Activity 1
 Partner Name: Kai Castilliano
+
+### Activity 3
+<img width="608" height="400" alt="GDIM 32 W3 Breakdown" src="https://github.com/user-attachments/assets/b58656a1-7b39-4c2e-837f-237c6b67c0a8" />

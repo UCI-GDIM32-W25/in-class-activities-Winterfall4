@@ -34,3 +34,14 @@ Partner Name: Kai Castilliano
 
 ### Activity 3
 <img width="608" height="400" alt="GDIM 32 W3 Breakdown" src="https://github.com/user-attachments/assets/b58656a1-7b39-4c2e-837f-237c6b67c0a8" />
+
+## W4
+### Activity 0
+N/A
+
+### Activity 1
+After writing my code, my other Locator objects delete as soon as I load the game. This is because the code notices that there is another locator objects and based on the if statement, it is set to destroy that other object.
+
+### Activity 2
+
+

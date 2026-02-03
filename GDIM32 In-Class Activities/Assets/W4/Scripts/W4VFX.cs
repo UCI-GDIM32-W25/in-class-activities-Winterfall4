@@ -10,7 +10,12 @@ public class W4VFX : MonoBehaviour
     // use the Locator to find the Pigeon
     // then, subscribe the HandlePigeonCoo method to the Pigeon coo event
 
+    //Locator.Instance.Player.CooEvent += HandlePigeonCoo;
 
+    private void Start()
+    {
+        Locator.Instance.Player.CooEvent += HandlePigeonCoo;
+    }
 
 
 

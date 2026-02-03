@@ -43,5 +43,6 @@ N/A
 After writing my code, my other Locator objects delete as soon as I load the game. This is because the code notices that there is another locator objects and based on the if statement, it is set to destroy that other object.
 
 ### Activity 2
+<img width="1142" height="621" alt="GDIM 32 W4 Breakdown" src="https://github.com/user-attachments/assets/2cd10f3c-3941-419d-b4c6-0d47c54a144a" />
 
 

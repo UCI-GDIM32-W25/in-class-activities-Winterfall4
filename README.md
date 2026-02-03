@@ -45,4 +45,9 @@ After writing my code, my other Locator objects delete as soon as I load the gam
 ### Activity 2
 <img width="1142" height="621" alt="GDIM 32 W4 Breakdown" src="https://github.com/user-attachments/assets/2cd10f3c-3941-419d-b4c6-0d47c54a144a" />
 
+### Activity 3
+[Link to MG4 Commit](https://github.com/Winterfall4/HW4/commit/f11463c86a3f868c47f49ef65cddb5950982349c)
+
+Finished the game
+
 

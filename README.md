@@ -50,4 +50,6 @@ After writing my code, my other Locator objects delete as soon as I load the gam
 
 Finished the game
 
-
+## W5
+### Activity 1
+I think I would keep the design the same because it makes sense to group the objects into breakables and items. 

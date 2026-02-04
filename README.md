@@ -53,3 +53,17 @@ Finished the game
 ## W5
 ### Activity 1
 I think I would keep the design the same because it makes sense to group the objects into breakables and items. 
+
+### Activity 2
+The PlayerW5Demo2, EnemyW5Demo2, InventoryUI classes are the controllers. The EnemyStats and ItemW5Demo2 classes are the model. The DialogueBubble class is the view.
+
+### Activity 3
+- Scenario 1: There would be an MVC pattern used here. The controller times when the beats come on and the score. Then the view handles visuals. The model handles the placement and the logo of the buttons.
+
+- Scenario 2: There would be a parent class for the players where the children would have to implement things like animations and meshes. There would be a finite state machine based on player health. There would be good health, critical health, and dead. The singleton would work with the UI where the UI processes first. There would be scriptable objects with the players' different stats. 
+
+- Scenario 3: There would be inheritance with a parent class of plants and children plant types. There would scriptable objects for the plants and rocks information.
+
+### Activity 4
+Attendance: Gianine, Kai, Alejandra
+[Link to Proposal](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)

@@ -67,3 +67,14 @@ The PlayerW5Demo2, EnemyW5Demo2, InventoryUI classes are the controllers. The En
 ### Activity 4
 Attendance: Gianine, Kai, Alejandra
 [Link to Proposal](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)
+
+## W6
+### Activity 1
+- Use a profiler to see what code makes a game laggy.
+- Try not to use a polygon collider because it requires a lot more math.
+- Try to use standard colliders like the circle.
+- Use gizmos to visualize colliders and vectors.
+
+### Activity 2
+Attendance: Gianine, Kai, Alejandra
+[Link to Proposal](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)

@@ -96,7 +96,7 @@ Attendance: Gianine, Kai, Alejandra
 
 
 ### Activity 4
-[Link to Proposal](https://trello.com/invite/b/6995150c4c08c889cfc60557/ATTIc91df2e96c5fe4e5b523f83e7d5b031d4AD64B70/gdim-32-group-board)
+[Link to Trello](https://trello.com/invite/b/6995150c4c08c889cfc60557/ATTIc91df2e96c5fe4e5b523f83e7d5b031d4AD64B70/gdim-32-group-board)
 
 ### Activity 5
 [Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/7a0361bd283fd5115a0304bb7db7ee52a1a9cb82)

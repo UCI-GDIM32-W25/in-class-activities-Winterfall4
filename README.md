@@ -93,6 +93,7 @@ Attendance: Gianine, Kai, Alejandra
 Attendance: Gianine, Kai, Alejandra
 
 ### Activity 3
+![GDIM 32 Final Game Breakdown](https://github.com/user-attachments/assets/82970a4b-576b-46f2-9fad-f10180b546b3)
 
 
 ### Activity 4

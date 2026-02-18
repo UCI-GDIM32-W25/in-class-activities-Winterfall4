@@ -78,3 +78,27 @@ Attendance: Gianine, Kai, Alejandra
 ### Activity 2
 Attendance: Gianine, Kai, Alejandra
 [Link to Proposal](https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing)
+
+## W7
+### Activity 1
+- Best to use finite states when an NPC keeps switching between states
+- There is a raycast to see where an NPC is looking and any objects that might be blocking the view
+- Visualize if an NPC is hitting an obstacle by using spherecasts and/or raycasts
+- Spheres are good to see a wider rage (top to bottom)
+- Ex. if the ray is just above a table then it would say there there is nothing in front of the NPC but if there is a ball (sphere) in front of the NPC then it is more likely to see the table
+- The spherecast or raycast return bools.
+
+
+### Activity 2
+Attendance: Gianine, Kai, Alejandra
+
+### Activity 3
+
+
+### Activity 4
+[Link to Proposal](https://trello.com/invite/b/6995150c4c08c889cfc60557/ATTIc91df2e96c5fe4e5b523f83e7d5b031d4AD64B70/gdim-32-group-board)
+
+### Activity 5
+[Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/7a0361bd283fd5115a0304bb7db7ee52a1a9cb82)
+
+NPC, player, and some environment assets added

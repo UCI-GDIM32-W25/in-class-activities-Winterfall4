@@ -103,3 +103,29 @@ Attendance: Gianine, Kai, Alejandra
 [Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/7a0361bd283fd5115a0304bb7db7ee52a1a9cb82)
 
 NPC, player, and some environment assets added
+
+
+## W8
+### Activity 1
+- Check shaders and see if the assets match the rendering pipeline that is being used.
+- There are many different effects that you can add to change the way that the game looks.
+- Post-processing effects affects the entire screen and not just one game object.
+- Unity asset store has effects you could use.
+
+### Activity 2
+Attendance: Gianine, Kai, Alejandra
+
+### Activity 3
+Playtest Notes:
+- Lagging
+- Having hard time with camera
+- Sensitivity issues
+- Make a setting where players could change sensitivity
+- Rocks are launching people
+- People like the environment and UI
+
+### Activity 4
+I will adjust the player settings to make player only use "W" to move girl. I also make sure that the dialogue box is anchored.
+
+### Activity 5
+[Link to Commit](https://github.com/Winterfall4/GDIM32-Final/commit/7df0480a19d09c3f69780ae43a8cba2686dc4534)
